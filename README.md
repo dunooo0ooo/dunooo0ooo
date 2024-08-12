@@ -16,7 +16,7 @@
 ### 🌏 About me:
   - I am Go Developer 👨‍💻
   
-  - First year student of ITMO Software Engeenering 🖥
+  - Second year student of ITMO Software Engeenering 🖥
 
 ### :hammer_and_wrench: Languages and Tools :
 
