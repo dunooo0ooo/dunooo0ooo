@@ -14,19 +14,21 @@
 </div>
 
 ### 🌏 About me:
-  - I am Go Developer from Saint Petersburg👨‍💻
-  - I am currently a bit know C++, C#, Design and Architecture patterns 👨‍💻
-  - Second year student of ITMO Software Engeenering 🖥
+  - I am Go Developer from Saint Petersburg
+  - I am currently a bit know C++, C#, Design and Architecture patterns 
+  - Third year student of ITMO Software Engeenering 
 
 ### :hammer_and_wrench: Languages and Tools :
 
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C/C++" alt="C/C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="C#" alt="C#" width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="55" height="55"/>
 </div>
 
 ### Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dunooo0ooo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dunooo0ooo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=550)](https://git.io/streak-stats)
